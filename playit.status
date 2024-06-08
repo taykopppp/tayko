@@ -1,124 +1,382 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717833360255 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717834295102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833363364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834298152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833366401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834301226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833369440 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834304277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833372486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834307308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833375514 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834310346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833378551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834313399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833381589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834316460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833384622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834319524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833387673 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834322603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833390719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834325678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833393764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834328731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833396796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834331764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833399830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834334804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833402865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834337837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833405898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834340870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833408937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834343914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833412001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834346968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833415050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834350018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833418091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834353069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717833421139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717834356132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834359179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834362214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834365246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834368295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834371355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834374420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834377485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834380535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834383572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834386621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834389670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834392717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834395771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834398824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834401858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834404911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834407988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834411040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834414086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834417147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834420214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834423275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834426321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834429357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834432396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834435432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834438491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834441548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834444582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834447618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834450649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834453690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834456723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834459755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834462801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834465870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834468927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834471960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834474989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834478044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834481090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834484121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+along-nv.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+world-routing.gl.at.ply.gg:1551 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717834487172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
